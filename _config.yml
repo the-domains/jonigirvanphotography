@@ -1,0 +1,28 @@
+name: jonigirvanphotography
+favicon: null
+layout_spectrum: 0.3648948119953275
+typography_spectrum: 0.9683086737059057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6845231056213379
+  lightness: 0.9686614961829036
+  saturation: 0.10011946363374591
+  rhythmicContrast: 0.3023536747787148
+purpose: []
