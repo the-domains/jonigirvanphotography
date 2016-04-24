@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jonigirvanphotography]]></title>
         <description><![CDATA[jonigirvanphotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jonigirvanphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 23:50:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 23:52:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonigirvanphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the World, Baby Channing!]]></title>
+            <description><![CDATA[<article><h1>Welcome to the World, Baby Channing!</h1><p>While on maternity leave, I really had to look into my photography business and figure out exactly what types of sessions I want to focus on. I decided that, as much as I love photographing newborns, I'm not set up for it. They take a lot of time and patience, which I need to invest in my own little guy. If you're looking to do a casual, lifestyle newborn session at home (like this one), I'm still your girl. If you're looking to do a more posed session with props, I can happily make a recommendation! Now that I got that out of the way, let me tell you about Channing...</p></article>]]></description>
+            <link>https://thegrid.ai/jonigirvanphotography/welcome-to-the-world-baby-channing/index.html</link>
+            <guid isPermaLink="false">0d45c638-b55d-48b9-90ff-38a2124caeb0</guid>
+            <pubDate>Sun, 24 Apr 2016 23:52:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paisley Turns One!]]></title>
             <description><![CDATA[<article><h1>Paisley Turns One!</h1><p>I don't know if there is a happier one year old than little Paisley. When we arrived to the session, she was all smiles, even before she dug into her pretty rose covered birthday cake! She squealed and laughed (and definitely had us laughing) as she dug in to the frosting and cake with her hands. By the end of the session, she had cake all over her hands, feet and face. Her older brother happily helped "clean up" a bit of the cake that was leftover. Happy birthday, Paisley! You bring so much joy and sunshine to those around you!</p></article>]]></description>
-            <link>undefinedpaisley-turns-one/index.html</link>
+            <link>https://thegrid.ai/jonigirvanphotography/paisley-turns-one/index.html</link>
             <guid isPermaLink="false">c2ca4a52-8545-4a31-8331-1477304cebef</guid>
             <pubDate>Sun, 24 Apr 2016 23:50:26 GMT</pubDate>
         </item>
