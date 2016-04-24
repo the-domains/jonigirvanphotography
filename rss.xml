@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jonigirvanphotography]]></title>
+        <description><![CDATA[jonigirvanphotography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Apr 2016 23:50:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paisley Turns One!]]></title>
+            <description><![CDATA[<article><h1>Paisley Turns One!</h1><p>I don't know if there is a happier one year old than little Paisley. When we arrived to the session, she was all smiles, even before she dug into her pretty rose covered birthday cake! She squealed and laughed (and definitely had us laughing) as she dug in to the frosting and cake with her hands. By the end of the session, she had cake all over her hands, feet and face. Her older brother happily helped "clean up" a bit of the cake that was leftover. Happy birthday, Paisley! You bring so much joy and sunshine to those around you!</p></article>]]></description>
+            <link>undefinedpaisley-turns-one/index.html</link>
+            <guid isPermaLink="false">c2ca4a52-8545-4a31-8331-1477304cebef</guid>
+            <pubDate>Sun, 24 Apr 2016 23:50:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
